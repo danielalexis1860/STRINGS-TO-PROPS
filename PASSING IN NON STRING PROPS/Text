@@ -1,0 +1,3 @@
+We are not limited by passing in String in ""
+In JavaScript React we can pass innany datatype of javascript
+We can jump back and forth between javascript and JSX using callibraces and same works with props.
